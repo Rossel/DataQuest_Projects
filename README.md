@@ -1,6 +1,6 @@
 # DataQuest Guided Project Solutions
 
-This repository is a series of notebooks that I made to solve the guided projects on [DataQuest.io](www.dataquest.io). In order to solve these projects, I have used all the available material and the hands-on experience I gained during the projects. 
+This repository is a series of notebooks that I made to solve the guided projects on [DataQuest.io](http://www.dataquest.io). In order to solve these projects, I have used all the available material and the hands-on experience I gained during the projects. 
 
 DataQuest offers online, project-based data science courses focused on data analysis using Python and R. I chose for DataQuest to learn data science, because of its unique, hands-on approach in teaching data science using interactive coding challenges and projects. 
 
