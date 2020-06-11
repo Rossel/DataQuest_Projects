@@ -9,4 +9,4 @@ It offers with real-world data and have a project-based approach, which provides
 
 It is an exciting learning journey on my way to become a professional in the data science field.
 
-* [Guided Project 01: Profitable App Profiles for the App Store and Google Play Markets](www.dataquest.io)
+* [Guided Project 01: Profitable App Profiles for the App Store and Google Play Markets](https://github.com/dbro-dev/dataquest_projects/tree/master/Guided_Project_01)
