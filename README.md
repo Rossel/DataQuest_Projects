@@ -7,3 +7,4 @@ DataQuest is not like typical MOOCs where theoretical concepts and a lot of the 
 It is an exciting learning journey on my way to become skilled in the data science field.
 
 * [Guided Project 01: Profitable App Profiles for the App Store and Google Play Markets](https://github.com/dbro-dev/dataquest_projects/tree/master/Guided_Project_01)
+* [Guided Project 02 - Exploring Hacker News Posts](https://github.com/dbro-dev/dataquest_projects/tree/master/Guided%20Project%2002)
