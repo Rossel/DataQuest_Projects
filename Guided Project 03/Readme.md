@@ -1,3 +1,5 @@
+# Guided Project 03: Exploring Ebay Car Sales Data.
+
 In this guided project, we'll work with a dataset of used cars from *eBay Kleinanzeigen*, a [classifieds](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website. The aim of this project is to clean the data and analyze the included used car listings.
 
 The dataset was originally scraped and uploaded to [Kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data). DataQuest made the following modifications to the original dataset:
