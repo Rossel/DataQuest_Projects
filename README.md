@@ -6,6 +6,6 @@ DataQuest does not provide theoretical concepts in the form of videos and, but i
 
 It is an exciting learning journey on my way to become skilled in the data science field.
 
-* [Guided Project 01 - Profitable App Profiles for the App Store and Google Play Markets](https://github.com/Rossel/DataQuest_Projects/tree/master/Guided%20Project%2001)
-* [Guided Project 02 - Exploring Hacker News Posts](https://github.com/Rossel/dataquest_projects/tree/master/Guided%20Project%2002)
-* [Guided Project 03 - Exploring Ebay Car Sales Data](https://github.com/Rossel/DataQuest_Projects/tree/master/Guided%20Project%2003)
+* [Guided Project 01 - Profitable App Profiles for the App Store and Google Play Markets](https://github.com/Rossel/DataQuest_Projects/tree/master/Guided_Project_01)
+* [Guided Project 02 - Exploring Hacker News Posts](https://github.com/Rossel/dataquest_projects/tree/master/Guided_Project_02)
+* [Guided Project 03 - Exploring Ebay Car Sales Data](https://github.com/Rossel/DataQuest_Projects/tree/master/Guided_Project_03)
