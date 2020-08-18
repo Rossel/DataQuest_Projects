@@ -1,4 +1,4 @@
-# DataQuest Guided Project Solutions
+# DataQuest Project Solutions
 
 This repository is a series of notebooks I made while working on real-life projects on [DataQuest.io](https://www.dataquest.io/blog/data-science-bootcamp/). DataQuest offers online, project-based data science courses focused on data analysis using Python and R. I chose for DataQuest to get learn data science, because of its unique, hands-on approach using interactive coding challenges and projects. 
 
@@ -6,6 +6,7 @@ DataQuest does not provide theoretical concepts in the form of videos and, but i
 
 It is an exciting learning journey on my way to become skilled in the data science field.
 
-* [Guided Project 01 - Profitable App Profiles for the App Store and Google Play Markets](https://github.com/Rossel/DataQuest_Projects/tree/master/Guided_Project_01)
-* [Guided Project 02 - Exploring Hacker News Posts](https://github.com/Rossel/dataquest_projects/tree/master/Guided_Project_02)
-* [Guided Project 03 - Exploring Ebay Car Sales Data](https://github.com/Rossel/DataQuest_Projects/tree/master/Guided_Project_03)
+* [Project 01 - App Store Performance](https://github.com/Rossel/DataQuest_Projects/tree/master/Project_01_-_App_Store_Performance)
+* [Project 02 - Hacker News Posts](https://github.com/Rossel/DataQuest_Projects/tree/master/Project_02_-_Hacker_News_Posts)
+* [Project 03 - Ebay Car Sales](https://github.com/Rossel/DataQuest_Projects/tree/master/Project_03_-_Ebay_Car_Sales)
+* [Project 04 - Digital Music Store](https://github.com/Rossel/Digital_Music_Store)
